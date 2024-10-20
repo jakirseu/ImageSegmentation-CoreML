@@ -11,7 +11,7 @@ import SwiftUI
 struct ImageSegmentationApp: App {
     var body: some Scene {
         WindowGroup {
-            OnlySegmentation()
+            ContentView()
         }
     }
 }
